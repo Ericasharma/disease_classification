@@ -57,8 +57,8 @@ Disease-Classification/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rajsirohi23/Disease-Classification.git
-cd Disease-Classification
+https://github.com/Ericasharma/disease_classification.git
+cd disease_classification
 ```
 
 ### 2. Create virtual environment
@@ -123,9 +123,9 @@ python app.py
 
 ## 👨‍💻 Author
 
-**Raj Sirohi**
+**Erica Sharma**
 📧 Aspiring AI & Data Engineer
-🔗 GitHub: https://github.com/rajsirohi23
+🔗 GitHub:https://github.com/Ericasharma
 
 ---
 
